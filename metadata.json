@@ -1,0 +1,6 @@
+{
+  "name": "المحاسب المنزلي",
+  "description": "تطبيق المحاسب المنزلي لحساب المصروفات المنزلية الثابتة والمتغيرة والواردات المالية والديون والمدخرات مع تقارير شهرية وتصدير البيانات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
